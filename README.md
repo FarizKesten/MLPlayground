@@ -1,3 +1,1 @@
-# OverviewAutoencoders
-
-A playground to test around wiht Autoencoder architectures
+# Repo to play around witht different AI-models
