@@ -1,1 +1,1 @@
-# Repo to play around witht different AI-models
+# Repo to play around with different AI-models
